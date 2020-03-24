@@ -1,0 +1,34 @@
+.app-body{
+    display: grid;
+    grid-template-columns: 80% 20%;
+    padding: 50px;
+    gap: 30px;
+}
+.employee-container{
+    display: grid;
+    grid-template-columns: repeat(4, auto);  
+    gap: 30px;
+}
+
+.accounts{
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid lightgray;
+}
+
+/* make those div responsive and stop from tearing => */
+
+@media only screen and (max-width: 800px) {
+    .app-body{
+        grid-template-columns: 1fr;
+    }
+    .employee-container{
+        order: 1;                
+    }
+}
+@media only screen and (max-width: 560px){
+    .employee-container{
+        grid-template-columns: 1fr;
+    }
+}

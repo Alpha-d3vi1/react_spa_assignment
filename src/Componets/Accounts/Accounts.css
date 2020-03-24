@@ -1,0 +1,11 @@
+.accounts{
+    height: 800px;
+    padding: 10px;
+    border-radius: 5px;
+    background: lightgrey;
+    box-shadow: 5px 5px lightgrey;
+    line-height: 20px;
+}
+.accounts h3{
+    color: goldenrod;
+}

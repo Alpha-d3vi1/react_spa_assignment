@@ -1,0 +1,73 @@
+[
+    {
+        "name" : "Mr Adam",
+        "photo" : "https://i.ibb.co/vqk0tHS/emp1.jpg",
+        "designation" : "iOS Developer",
+        "email":"adam@hmail.com",
+        "salary" : "46000"
+    },
+    {
+        "name" : "Miss Bridge",
+        "photo" : "https://i.ibb.co/FhqNBRB/emp2.jpg",
+        "designation" : "Web Developer",
+        "email":"bridge@hmail.com",
+        "salary" : "28000"
+    },
+    {
+        "name" : "Mr Coal",
+        "photo" : "https://i.ibb.co/YTNC47W/emp3.jpg",
+        "designation" : "Web Developer",
+        "email":"coal@hmail.com",
+        "salary" : "25000"
+    },
+    {
+        "name" : "Mr Dalton",
+        "photo" : "https://i.ibb.co/9pthmY8/emp4.jpg",
+        "designation" : "Graphics Designer",
+        "email":"daltonm@hmail.com",
+        "salary" : "13500"
+    },
+    {
+        "name" : "Miss Elizabeth",
+        "photo" : "https://i.ibb.co/TMDsDnv/emp5.jpg",
+        "designation" : "Graphics Designer",
+        "email":"elizabeth@hmail.com",
+        "salary" : "12500"
+    },
+    {
+        "name" : "Mr Fizz",
+        "photo" : "https://i.ibb.co/R7Nf8tk/emp6.jpg",
+        "designation" : "Android Dev",
+        "email":"fizz@hmail.com",
+        "salary" : "16500"
+    },
+    {
+        "name" : "Mr Graham",
+        "photo" : "https://i.ibb.co/qYGWLQn/emp8.jpg",
+        "designation" : "Android Dev",
+        "email":"graham@hmail.com",
+        "salary" : "15500"
+    },
+    {
+        "name" : "Mr Hosea",
+        "photo" : "https://i.ibb.co/CzRNpg5/emp9.jpg",
+        "designation" : "Database Expert",
+        "email":"hosea@hmail.com",
+        "salary" : "19500"
+    },
+    {
+        "name" : "Mr Idea",
+        "photo" : "https://i.ibb.co/J7mmMrN/emp10.jpg",
+        "designation" : "Facebook Promoter",
+        "email":"idea@hmail.com",
+        "salary" : "7000"
+    },
+    {
+        "name" : "Mr Joseph",
+        "photo" : "https://i.ibb.co/PGWy0nP/emp7.jpg",
+        "designation" : "Sales Manager",
+        "email":"joseph@hmail.com",
+        "salary" : "9000"
+    }
+
+]

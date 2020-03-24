@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.header h1{
+    color: midnightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}

@@ -1,0 +1,35 @@
+.aEmployee{
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: 5px 5px lightgrey;
+    line-height: 7px;
+    border-radius: 5px;
+} 
+
+.aEmployee h3{
+    color: teal;
+    font-weight: 600;
+}
+.aEmployee img{
+    border-radius: 60%;
+    height:200px;
+    width: 100%;
+}
+.aEmployee p{
+    color: teal;
+    font-weight: 200;
+}
+.pay-btn,.paid-btn{
+    padding: 12px 30px;
+    background-color: red;
+    border: 2px solid ghostwhite;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: grab;
+}
+.paid-btn{
+    background-color: green;
+    cursor: default;
+}
